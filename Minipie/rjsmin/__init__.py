@@ -1,0 +1,2 @@
+
+from rjsmin import jsmin
